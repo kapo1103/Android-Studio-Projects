@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">OrdanBurdan Butik</string>
+    <string name="giris">giris</string>
+    <string name="string_giris" />
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

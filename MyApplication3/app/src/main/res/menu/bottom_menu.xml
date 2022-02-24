@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/anaSayfa"
+        android:icon="@drawable/ic_baseline_home_24"
+        android:title="Anasayfa" />
+    <item
+        android:id="@+id/kategori"
+        android:icon="@drawable/ic_baseline_web_24"
+        android:title="Web" />
+    <item
+        android:id="@+id/bizKimiz"
+        android:icon="@drawable/ic_baseline_people_24"
+        android:title="Biz Kimiz" />
+</menu>
